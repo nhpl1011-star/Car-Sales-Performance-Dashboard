@@ -12,9 +12,9 @@ Power Query – Data transformation and cleaning layer (ETL) used to reshape and
 DAX (Data Analysis Expressions) – Used to create complex calculated measures such as YTD/MTD Sales, YoY Growth, and Dynamic High-Point Markers.
 
 Data Modeling – Established a robust Star Schema (Relationships between Sales, Calendar, and Car Detail tables) to enable seamless cross-filtering and accurate time intelligence.
-## **5. Features / Highlights**
+## **3. Features / Highlights**
 ### Business Problem
-In the highly competitive automotive industry, sales managers and stakeholders often struggle to track real-time performance across multiple regions. Raw transactional data makes it difficult to answer critical questions quickly:
+*In the highly competitive automotive industry, sales managers and stakeholders often struggle to track real-time performance across multiple regions. Raw transactional data makes it difficult to answer critical questions quickly:
 
 Which car models are driving the most revenue this year?
 
