@@ -14,7 +14,7 @@ DAX (Data Analysis Expressions) – Used to create complex calculated measures s
 Data Modeling – Established a robust Star Schema (Relationships between Sales, Calendar, and Car Detail tables) to enable seamless cross-filtering and accurate time intelligence.
 ## **3. Features / Highlights**
 ### Business Problem
-*In the highly competitive automotive industry, sales managers and stakeholders often struggle to track real-time performance across multiple regions. Raw transactional data makes it difficult to answer critical questions quickly:
+  * In the highly competitive automotive industry, sales managers and stakeholders often struggle to track real-time performance across multiple regions. Raw transactional data makes it difficult to answer critical questions quickly:
 
 Which car models are driving the most revenue this year?
 
