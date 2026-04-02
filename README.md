@@ -13,7 +13,7 @@ DAX (Data Analysis Expressions) – Used to create complex calculated measures s
 
 Data Modeling – Established a robust Star Schema (Relationships between Sales, Calendar, and Car Detail tables) to enable seamless cross-filtering and accurate time intelligence.
 ## **5. Features / Highlights**
-• Business Problem
+### Business Problem
 In the highly competitive automotive industry, sales managers and stakeholders often struggle to track real-time performance across multiple regions. Raw transactional data makes it difficult to answer critical questions quickly:
 
 Which car models are driving the most revenue this year?
@@ -24,7 +24,7 @@ Are there specific regions or car colors that are underperforming?
 
 What is the weekly sales momentum, and are we hitting our targets?
 
-• Goal of the Dashboard
+### Goal of the Dashboard
 To deliver an interactive, data-driven visual tool that:
 
 Monitors Core KPIs: Tracks YTD/MTD Sales, Average Price, and YoY Growth at a glance.
@@ -35,7 +35,7 @@ Optimizes Inventory: Helps dealerships align their stock with regional demand an
 
 Enhances Decision-Making: Provides a "drill-down" capability from high-level executive summaries to individual transaction details.
 
-• Walkthrough of Key Visuals
+### Walkthrough of Key Visuals
 Executive KPI Cards (Top): Displays critical metrics like YTD Total Sales, YTD Cars Sold, and YoY Growth % to give an immediate health check of the business.
 
 Sales Weekly Trend (Line Chart): A dynamic timeline that tracks sales fluctuations, featuring a High-Point Marker to celebrate and analyze record-breaking weeks.
@@ -48,7 +48,7 @@ Company-Wise Sales Grid: A tabular view with Sparklines or Data Bars to compare 
 
 Details Transaction Grid: A comprehensive table at the bottom for granular auditing, showing every sale’s model, date, price, and dealer info.
 
-• Business Impact & Insights
+### Business Impact & Insights
 Inventory Optimization: Dealerships can reduce "dead stock" by ordering car styles and colors that the dashboard identifies as high-demand.
 
 Sales Strategy: Regional managers can reallocate marketing budgets to underperforming areas identified on the map.
