@@ -1,8 +1,6 @@
 # Car-Sales-Performance-Dashboard
-This Power BI dashboard converts raw automotive sales data into actionable insights. It tracks YTD &amp; MTD sales, YoY growth, and weekly trends using advanced DAX. Features include interactive maps for regional analysis, pie charts for body style &amp; color distribution, and a detailed grid for granular tracking-enabling data-driven inventory decisions.
 
-#  1. Project Title / Headline
+#  1. Short Description / Purpose
 
-A dynamic, interactive data visualization tool built to explore and monitor automotive sales performance—focusing on YTD/MTD trends, regional distribution, car body styles, and customer color preferences.
-
+The Car Sales Performance Dashboard is a dynamic and data-driven Power BI report designed to track and analyze automotive sales performance across various dealer regions. The dashboard focuses on highlighting key metrics such as YTD/MTD sales, Year-over-Year (YoY) growth, and customer preferences regarding body styles and colors. This tool is intended for sales managers, dealership owners, and business analysts who seek to identify high-performing trends and optimize inventory strategies based on real-time data insights.
 
