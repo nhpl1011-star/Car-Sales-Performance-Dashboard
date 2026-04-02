@@ -56,3 +56,5 @@ Inventory Optimization: Dealerships can reduce "dead stock" by ordering car styl
  * Growth Tracking: The YoY analysis provides a clear benchmark, helping the company stay on track for annual targets.
 
  * Operational Efficiency: Reduces the time spent on manual reporting by providing an automated, "single source of truth" for all sales data.
+<img width="1248" height="706" alt="CAR SALES DASHBOARD OVERVIEW" src="https://github.com/user-attachments/assets/eee4a632-6a28-4077-8396-7e251a9fb933" />
+
